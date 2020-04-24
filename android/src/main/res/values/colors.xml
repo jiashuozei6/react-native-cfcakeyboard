@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#272727</color>
+  <color name="colorPrimaryDark">#272727</color>
+  <color name="colorAccent">#466ACF</color>
+
+  <color name="textLabel">#242424</color>
+  <color name="textSubtitle">#727272</color>
+  <color name="textHint">#AAAAAA</color>
+  <color name="divider">#ECECEC</color>
+  <color name="buttonText">#FEFEFE</color>
+  <color name="textDialog">#171717</color>
+
+  <color name="windowBackground">#F0F1F3</color>
+  <color name="regionBackground">#FEFEFE</color>
+  <color name="inputBorder">#CCCCCC</color>
+  <color name="blackOpacity10">#1A000000</color>
+  <color name="blackOpacity90">#E6000000</color>
+  <color name="gridColor">#B7BCBC</color>
+  <color name="inputBorder2">#00000000</color>
+</resources>

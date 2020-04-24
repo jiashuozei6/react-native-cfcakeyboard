@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FD592C">
+
+    <com.cfca.mobile.sipedit.SipEditText
+        android:id="@+id/sip1"
+        android:layout_width="280dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="32dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_input"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textAppearance="@style/AppTextAppearance"
+        android:layout_centerVertical="true"
+        tools:ignore="MissingConstraints" />
+    <ImageView
+        android:id="@+id/clear1"
+        android:layout_marginLeft="12dp"
+        android:layout_toEndOf="@+id/sip1"
+        android:layout_toRightOf="@+id/sip1"
+        android:layout_centerVertical="true"
+        style="@style/ClearImage"
+        />
+
+</RelativeLayout>

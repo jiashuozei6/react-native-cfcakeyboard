@@ -1,0 +1,25 @@
+{
+  "name": "react-native-cfcakeyboard",
+  "version": "1.0.0",
+  "description": "A Custom Keyboard for React Native on iOS and Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiashuozei6/react-native-cfcakeyboard"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "android",
+    "ios"
+  ],
+  "author": "Elvis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiashuozei6/react-native-cfcakeyboard/issues"
+  },
+  "homepage": "https://github.com/jiashuozei6"
+}

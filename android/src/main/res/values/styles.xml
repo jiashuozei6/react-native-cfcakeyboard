@@ -1,0 +1,67 @@
+<resources>
+
+  <style name="DemoTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+    <item name="android:windowBackground">@color/windowBackground</item>
+  </style>
+
+  <style name="AppTextAppearance" parent="TextAppearance.AppCompat">
+    <item name="android:textColor">@color/textLabel</item>
+    <item name="android:textSize">@dimen/appTextSize</item>
+    <item name="android:textColorHint">@color/textHint</item>
+  </style>
+
+  <style name="AppTextAppearance.Label">
+  </style>
+
+  <style name="AppTextAppearance.Title">
+    <item name="android:textSize">@dimen/appTitleSize</item>
+  </style>
+
+  <style name="AppTextAppearance.Subtitle">
+    <item name="android:textColor">@color/textSubtitle</item>
+  </style>
+
+  <style name="AppTextAppearance.DialogText">
+    <item name="android:textColor">@color/textDialog</item>
+    <item name="android:textSize">@dimen/dialogTextSize</item>
+  </style>
+
+  <style name="AppTextAppearance.Hint">
+    <item name="android:textColor">@color/textHint</item>
+    <item name="android:textSize">@dimen/hintSize</item>
+  </style>
+
+  <style name="AppTextAppearance.Radio">
+  </style>
+
+  <style name="AppTextAppearance.ClickableText">
+    <item name="android:textColor">@color/colorAccent</item>
+    <item name="android:textSize">@dimen/clickableTextSize</item>
+  </style>
+
+  <style name="AppTextAppearance.ClickableText.Clear">
+    <item name="android:textColor">@color/textSubtitle</item>
+  </style>
+
+  <style name="Divider">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">1dp</item>
+    <item name="android:background">@color/divider</item>
+  </style>
+
+  <style name="ClearImage">
+    <item name="android:layout_width">20dp</item>
+    <item name="android:layout_height">20dp</item>
+    <item name="android:padding">2dp</item>
+    <item name="android:src">@drawable/clear</item>
+  </style>
+  <style name="CloseImage">
+    <item name="android:layout_width">20dp</item>
+    <item name="android:layout_height">20dp</item>
+    <item name="android:padding">4dp</item>
+    <item name="android:src">@drawable/close</item>
+  </style>
+</resources>
